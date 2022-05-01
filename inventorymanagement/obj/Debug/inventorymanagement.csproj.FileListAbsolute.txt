@@ -1,0 +1,39 @@
+F:\000 final\c#\C#priject\inventorymanagement\bin\Debug\Database.mdf
+F:\000 final\c#\C#priject\inventorymanagement\bin\Debug\Database_log.ldf
+F:\000 final\c#\C#priject\inventorymanagement\bin\Debug\RegistrationAndLogin.exe.config
+F:\000 final\c#\C#priject\inventorymanagement\bin\Debug\RegistrationAndLogin.exe
+F:\000 final\c#\C#priject\inventorymanagement\bin\Debug\RegistrationAndLogin.pdb
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\inventorymanagement.csproj.AssemblyReference.cache
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\inventorymanagement.csproj.SuggestedBindingRedirects.cache
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\RegistrationAndLogin.Properties.Resources.resources
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\inventorymanagement.csproj.GenerateResource.cache
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\inventorymanagement.csproj.CoreCompileInputs.cache
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\RegistrationAndLogin.exe
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\RegistrationAndLogin.pdb
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Home.resources
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Login.resources
+F:\000 final\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Registration.resources
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\Database.mdf
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\Database_log.ldf
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.csproj.AssemblyReference.cache
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.csproj.SuggestedBindingRedirects.cache
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Home.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Login.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Registration.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.csproj.GenerateResource.cache
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.About.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Properties.Resources.resources
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\InventoryManagement.exe.config
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\InventoryManagement.exe
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\InventoryManagement.pdb
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.exe
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.pdb
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Mahin.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Rudro.resources
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.Rusho.resources
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\InventoryManagement.exe.manifest
+F:\000inal\c#\C#priject\inventorymanagement\bin\Debug\InventoryManagement.application
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.TrustInfo.xml
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.exe.manifest
+F:\000inal\c#\C#priject\inventorymanagement\obj\Debug\InventoryManagement.application
